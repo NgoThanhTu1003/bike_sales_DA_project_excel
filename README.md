@@ -6,4 +6,4 @@
 
 **tools:** pivot tables, filtering (bucketing) and basic visualization (dashboards and charts).
 
-**outcome:** provide insights into customers' charactarization, and helped targeting products.
+**outcome:** provide insights into customers' charactarization.
