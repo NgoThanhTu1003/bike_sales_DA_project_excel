@@ -10,5 +10,5 @@
 
 
 <a>
-  <img src="https://github.com/NgoThanhTu1003/bike_sales_DA_project_excel/blob/master/dashboard_bikeSales.png" >
+  <img src="https://github.com/NgoThanhTu1003/bike_sales_DA_project_excel/blob/main/dashboard_bikeSales.png" >
 </a>
