@@ -7,3 +7,8 @@
 **tools:** pivot tables, filtering (bucketing) and basic visualization (dashboards and charts).
 
 **outcome:** provide insights into customers' charactarization.
+
+
+<a>
+  <img src="https://github.com/NgoThanhTu1003/bike_sales_DA_project_excel/blob/master/dashboard_bikeSales.png" >
+</a>
